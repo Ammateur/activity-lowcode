@@ -1,5 +1,11 @@
+import CoreLayout from "./CoreLayout";
+
 function App() {
-  return <>this is app entry</>;
+  return (
+    <>
+      <CoreLayout />
+    </>
+  );
 }
 
 export default App;
